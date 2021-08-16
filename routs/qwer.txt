@@ -1,0 +1,1 @@
+id: 1, title: 1, description: 2, authors: 3, favorite: 4, fileCover: 5, fileName: 6
